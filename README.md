@@ -14,3 +14,11 @@ npx playwright show-report
 ```
 
 ![](playwright-test-report.png)
+
+# UI
+
+```
+npx playwright test --ui
+```
+
+![](with-ui.png)
